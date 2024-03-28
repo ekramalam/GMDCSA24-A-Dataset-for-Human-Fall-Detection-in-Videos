@@ -37,5 +37,6 @@ Bibtex entry:
 }
 
 ```
-	 
+The DOI of this dataset is given below.	 
 
+[![DOI](https://zenodo.org/badge/760638629.svg)](https://zenodo.org/doi/10.5281/zenodo.10889140)
