@@ -23,24 +23,21 @@ journal = "Data in Brief",
 
 ```
 
-3. Ekram Alam. (2024). ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos: 1.0.2 (1.0.2). Zenodo. https://doi.org/10.5281/zenodo.10889450
+2. Ekram Alam. (2024). ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos: 1.1.0 (1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11216408
 
 Bibtex entry:
 
 ```
-
-
-
-@dataset{ekram_alam_2024_10889450,
+@dataset{ekram_alam_2024_11216408,
   author       = {Ekram Alam},
   title        = {{ekramalam/GMDCSA24-A-Dataset-for-Human-Fall- 
-                   Detection-in-Videos: 1.0.2}},
-  month        = mar,
+                   Detection-in-Videos: 1.1.0}},
+  month        = may,
   year         = 2024,
   publisher    = {Zenodo},
-  version      = {1,0,2},
-  doi          = {10.5281/zenodo.10889450},
-  url          = {https://doi.org/10.5281/zenodo.10889450}
+  version      = {1.1.0},
+  doi          = {10.5281/zenodo.11216408},
+  url          = {https://doi.org/10.5281/zenodo.11216408}
 }
 
 ```
@@ -59,6 +56,7 @@ Bibtex entry:
 }
 
 ```
-The DOI of this dataset is given below.	 
+The DOI of this dataset is given below.	
 
-[![DOI](https://zenodo.org/badge/760638629.svg)](https://zenodo.org/doi/10.5281/zenodo.10889140)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11216408.svg)](https://doi.org/10.5281/zenodo.11216408)
+
