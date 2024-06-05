@@ -23,23 +23,21 @@ journal = "Data in Brief",
 
 ```
 
-2. Ekram Alam. (2024). ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos: 1.1.0 (1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11216408
-
+2. Ekram Alam. (2024). ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos: 1.1.1 (1.1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11489420
+   
 Bibtex entry:
-
 ```
-@dataset{ekram_alam_2024_11216408,
+@dataset{ekram_alam_2024_11489420,
   author       = {Ekram Alam},
   title        = {{ekramalam/GMDCSA24-A-Dataset-for-Human-Fall- 
-                   Detection-in-Videos: 1.1.0}},
-  month        = may,
+                   Detection-in-Videos: 1.1.1}},
+  month        = jun,
   year         = 2024,
   publisher    = {Zenodo},
-  version      = {1.1.0},
-  doi          = {10.5281/zenodo.11216408},
-  url          = {https://doi.org/10.5281/zenodo.11216408}
+  version      = {1.1.1},
+  doi          = {10.5281/zenodo.11489420},
+  url          = {https://doi.org/10.5281/zenodo.11489420}
 }
-
 ```
 
 3. Alam, E., Sufian, A., Dutta, P., & Leo, M. (2023, January). Real-Time human fall detection using a lightweight pose estimation technique. In International Conference on Computational Intelligence in Communications and Business Analytics (pp. 30-40). Cham: Springer Nature Switzerland.
@@ -58,5 +56,7 @@ Bibtex entry:
 ```
 The DOI of this dataset is given below.	
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11216408.svg)](https://doi.org/10.5281/zenodo.11216408)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11489420.svg)](https://doi.org/10.5281/zenodo.11489420)
+
+
 
