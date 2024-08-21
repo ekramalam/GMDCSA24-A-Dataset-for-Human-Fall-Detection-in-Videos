@@ -1,17 +1,17 @@
-File Name, Length,Description
-01.mp4,08 sec, Sitting on the bed to sleeping right side on the bed. Face towards camera.
-02.mp4,06 sec,Sitting on the bed to sleeping left side on the bed. Face towards the camera.
-03.mp4,06 sec,Sitting on the bed to sleeping left side on the bed. Face towards the ceiling.
-04.mp4,05 sec,From sleeping left side on the bed (Face towards the ceiling) to sitting on the bed.
-05.mp4,10 sec,Coming to the bed and reading book in the sitting position. Front view of the subject. One leg folded.
-06.mp4,12 sec,Sitting on the bed (front view) to reading the book while supporting towards the wall. Side view.
-07.mp4,07 sec,Reading book while sitting on the chair; Front view., Leg straight.
-08.mp4,06 sec,Walking in the room.
-09.mp4,04 sec,Reading book while walking in the room.
-10.mp4,03 sec,Reading book while walking in the room.
-11.mp4,09 sec,Walking to sitting on the chair and then reading book.
-12.mp4,07 sec,Reading book while sitting on the chair to stand up and keeping the book on the chair and going out of the room.
-13.mp4,06 sec,Walking to sitting on the chair (side view).
-14.mp4,05 sec,Sitting on the chair (side view) to walking.
-15.mp4,07 sec,Walking to picking a mobile phone from the ground and then sitting on the chair.,
-16.mp4,03 sec,Picking the mobile phone from the ground while sitting on the chair.
+File Name,Length (seconds),Time of Recording,Attire,Description, Classes
+01.mp4,08, Day (Light On), Full T-shirt & Trousers, Sitting on the bed to sleeping right side on the bed. Face towards camera, Sitting[0 to 1]; Sleeping[2 to 8]
+02.mp4,06, Day (Light On), Full T-shirt & Trousers, Sitting on the bed to sleeping left side on the bed. Face towards the camera, Sitting[0 to 0.5]; Sleeping[1.5 to 6]
+03.mp4,06, Day (Light On), Full T-shirt & Trousers, Sitting on the bed to sleeping left side on the bed. Face towards the ceiling, Sitting[0 to 0.5]; Sleeping[1 to 6]
+04.mp4,05, Day (Light On), Full T-shirt & Trousers, From sleeping left side on the bed (Face towards the ceiling) to sitting on the bed, Sitting[2.5 to 5]; Sleeping[0 to 1.5]
+05.mp4,10, Day (Light On), Full T-shirt & Trousers, Coming to the bed and reading book in the sitting position. Front view of the subject. One leg folded, Reading[6 to 10]; Sitting[3 to 10]; Walking[1 to 3]
+06.mp4,12, Day (Light On), Full T-shirt & Trousers, Sitting on the bed (front view) to reading the book while supporting towards the wall. Side view, Reading[3 to 12]; Sitting[0 to 2]
+07.mp4,07, Day (Light On), Full T-shirt & Trousers, Reading book while sitting on the chair; Front view;Leg straight, Reading[0 to 5.5]; Sitting[0 to 7]
+08.mp4,06, Day (Light On), Full T-shirt & Trousers, Walking in the room, Walking[0 to 6]
+09.mp4,04, Day (Light On), Full T-shirt & Trousers, Reading book while walking in the room, Reading[0 to 4]; Walking[0 to 4]
+10.mp4,03, Day (Light On), Full T-shirt & Trousers, Reading book while walking in the room, Reading[0 to 2.5]; Walking[0 to 3]
+11.mp4,09, Day (Light On), Full T-shirt & Trousers, Walking to sitting on the chair and then reading book, Reading[5 to 9]; Sitting[3 to 9]; Walking[0 to 2]
+12.mp4,07, Day (Light On), Full T-shirt & Trousers, Reading book while sitting on the chair to stand up and keeping the book on the chair and going out of the room, Reading[0 to 2.5]; Sitting[0 to 3.3]; Standing[3.3 to 5];Walking[5 to 7]; 
+13.mp4,06, Day (Light On), T-shirt & Trousers, Walking to sitting on the chair (side view), Sitting[3 to 6]; Walking[0 to 2.5]
+14.mp4,05, Day (Light On), T-shirt & Trousers, Sitting on the chair (side view) to walking, Sitting[0 to 1]; Standing[4.7 to 5]; Walking[1.6 to 4.7]
+15.mp4,07, Day (Light On), T-shirt & Trousers, Walking to picking a mobile phone from the ground and then sitting on the chair,  Sitting[4 to 7]; Walking[0 to 1.5]
+16.mp4,03, Day (Light On), T-shirt & Trousers, Picking the mobile phone from the ground while sitting on the chair,  Sitting[0 to 3]

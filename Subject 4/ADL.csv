@@ -1,21 +1,21 @@
-File Name,Length (seconds),Time of Recording,Attire,Description
-01.mp4,12,Day (Lights Off),Full Shirt & Pant,Wiping the face with a handkerchief while sitting on the bed; cleaning the goggles and putting them on.
-02.mp4,10,Day (Lights Off),Full Shirt & Pant,Talking on the mobile phone while walking.
-03.mp4,08,Day (Lights Off),Full Shirt & Pant,Reading a book while sitting on the bed.
-04.mp4,13,Day (Lights Off),Full Shirt & Pant,Using a laptop while sitting on the bed.
-05.mp4,07,Day (Lights Off),Full Shirt & Pant,Doing exercise (push-up); view 1.
-06.mp4,06,Day (Lights Off),Full Shirt & Pant,Doing exercise (push-up); view 2.
-07.mp4,04,Day (Lights Off),Full Shirt & Pant,Doing exercise (push-up); view 3.
-08.mp4,12,Day (Lights Off),Full Shirt & Pant,Sleeping to sitting; putting on the goggles and drinking water.
-09.mp4,12,Day (Lights Off),Full Shirt & Pant,Reading a book and checking the mobile phone while sitting on the bed.
-10.mp4,12,Day (Lights Off),Full Shirt & Pant,Walking then sleeping on the bed after removing the goggles.
-11.mp4,10,Day (Lights Off),Full Shirt & Pant,Copying content from a book into a notebook while sitting on the floor.
-12.mp4,08,Day (Lights Off),Full Shirt & Pant,Stopping copying from a book and drinking water while sitting on the floor.
-13.mp4,05,Day (Lights On),Full Shirt & Pant,Writing while sitting on the chair.
-14.mp4,08,Day (Lights On),Full Shirt & Pant,Sitting in the chair to standing on the floor; then picking up the water bottle and drinking water from it.
-15.mp4,05,Day (Lights On),Full Shirt & Pant,Sitting to sleeping on the bed.
-16.mp4,07,Day (Lights On),Full Shirt & Pant,Sitting on the bed; removing the goggles; then sleeping.
-17.mp4,06,Day (Lights On),Full Shirt & Pant,Picking up the book from the floor and putting it on the bed.
-18.mp4,14,Day (Lights On),Full Shirt & Pant,Wiping the face with a handkerchief; putting on the goggles; then reading a book.
-19.mp4,09,Day (Lights On),Full Shirt & Pant,Walking; then picking up the biscuit jar and eating biscuits from it after sitting on the bed.
-20.mp4,17,Day (Lights On),Full Shirt & Pant,Eating biscuits then picking up the water bottle from the floor and drinking the water from it after sitting on the bed; keeping the bottle on the floor.
+File Name,Length (seconds),Time of Recording,Attire,Description, Classes
+01.mp4,12,Day (Lights Off),Full Shirt & Pant,Wiping the face with a handkerchief while sitting on the bed; cleaning the goggles and putting them on,Sitting[0 to 12]
+02.mp4,10,Day (Lights Off),Full Shirt & Pant,Talking on the mobile phone while walking, Walking[0 to 10]
+03.mp4,08,Day (Lights Off),Full Shirt & Pant,Reading a book while sitting on the bed, Reading[3.8 to 8]; Sitting[ 0 to 8]
+04.mp4,13,Day (Lights Off),Full Shirt & Pant,Using a laptop while sitting on the bed, Sitting[0 to 13]
+05.mp4,07,Day (Lights Off),Full Shirt & Pant,Doing exercise (push-up); view 1, Exercising[2.6 to 7]; Walking[0 to 1.9]
+06.mp4,06,Day (Lights Off),Full Shirt & Pant,Doing exercise (push-up); view 2, Exercising[1.4 to 6]; Walking[0 to 1]
+07.mp4,04,Day (Lights Off),Full Shirt & Pant,Doing exercise (push-up); view 3, Exercising[0 to 4]
+08.mp4,12,Day (Lights Off),Full Shirt & Pant,Sleeping to sitting; putting on the goggles and drinking water, Drinking[8.5 to 12]; Sitting[2.1 to 12]; Sleeping[0 to 1.1]
+09.mp4,12,Day (Lights Off),Full Shirt & Pant,Reading a book and checking the mobile phone while sitting on the bed, Reading[0 to 12]; Sitting[0 to 12]
+10.mp4,12,Day (Lights Off),Full Shirt & Pant,Walking then sleeping on the bed after removing the goggles, Sleeping[4.3 to 12]; Walking[0 to 1.4]
+11.mp4,10,Day (Lights Off),Full Shirt & Pant,Copying content from a book into a notebook while sitting on the floor, Sitting[0 to 10]; Writing[2.7 to 10]
+12.mp4,08,Day (Lights Off),Full Shirt & Pant,Stopping copying from a book and drinking water while sitting on the floor, Drinking[4.5 to 8]; Reading[0 to 1.6]; Sitting[0 to 8]; Writing[0 to 1.6]
+13.mp4,05,Day (Lights On),Full Shirt & Pant,Writing while sitting on the chair, Sitting[0 to 5]; Writing[0 to 5]
+14.mp4,08,Day (Lights On),Full Shirt & Pant,Sitting in the chair to standing on the floor; then picking up the water bottle and drinking water from it, Drinking[4.5 to 6.7]; Standing[0 to 0.3; 1.5 to 8]; Walking[0.4 to 1.4]
+15.mp4,05,Day (Lights On),Full Shirt & Pant,Sitting to sleeping on the bed, Sitting[0 to 0.5]; Sleeping[1.6 to 5]
+16.mp4,07,Day (Lights On),Full Shirt & Pant,Sitting on the bed; removing the goggles; then sleeping, Sitting[0.5 to 2.8]; Sleeping[2.9 to 7]
+17.mp4,06,Day (Lights On),Full Shirt & Pant,Picking up the book from the floor and putting it on the bed, Walking[0 to 6]
+18.mp4,14,Day (Lights On),Full Shirt & Pant,Wiping the face with a handkerchief; putting on the goggles; then reading a book, Reading[11.5 to 14]; Sitting[0.7 to 14]
+19.mp4,09,Day (Lights On),Full Shirt & Pant,Walking; then picking up the biscuit jar and eating biscuits from it after sitting on the bed, Eating[7.7 to 9]; Sitting[6.9 to 9]; Standing[3 to 6.4]; Walking[0 to 1.7] 
+20.mp4,17,Day (Lights On),Full Shirt & Pant,Eating biscuits then picking up the water bottle from the floor and drinking the water from it after sitting on the bed; keeping the bottle on the floor, Drinking[4.6 to 10.4]; Eating[16.2 to 17]; Sitting[2.8 to 17]; Standing[0.7 to 2.6]

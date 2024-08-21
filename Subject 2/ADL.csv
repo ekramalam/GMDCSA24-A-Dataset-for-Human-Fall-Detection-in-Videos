@@ -1,24 +1,24 @@
-File Name,Length (seconds),Time of Recording,Attire,Description
-01.mp4,11,Day,Full Shirt & Pant,Talking on the mobile phone while sitting on the bed and walking.
-02.mp4,11,Day,Full Shirt & Pant,Picking up a water bottle from the ground and drinking while sitting on the bed.
-03.mp4,11,Day,Full Shirt & Pant,Walking; removing dust from the bed using a pillow; and sleeping on the bed.
-04.mp4,7,Day,Full Shirt & Pant,Yoga: Standing forward bend (Uttanasana).
-05.mp4,10,Day,Full Shirt & Pant,Throwing a book on the bed; standing up from the ground; walking; and opening the curtain.
-06.mp4,10,Day,Full Shirt & Pant,Picking up the mobile phone from the ground; placing it on the bed; and sitting on the bed.
-07.mp4,13,Day,Full Shirt & Pant,Exercising (Moving both hands up and down).
-08.mp4,13,Day,Full Shirt & Pant,Exercising (Stretching thigh and trying to touch the ground:Pyramid Pose).
-09.mp4,10,Day,Full Shirt & Paint,Standing up from a sitting position on the bed and then sitting on the ground.
-10.mp4,7,Day,Full Shirt & Paint,Standing up from the ground and closing the curtain.
-11.mp4,10,Day,Full Shirt; T-shirt & Pant,Removing the shirt and hanging it on the hanger.
-12.mp4,7,Day,T-shirt and Pant,Going to bed and sleeping (belly facing downwards).
-13.mp4,4,Day,T-shirt and Pant,Sitting on the ground and reading a book.
-14.mp4,11,Night,Full Shirt & Jeans,Walking and reading something while sitting on the bed.
-15.mp4,11,Night,Full Shirt & Jeans,Reading a newspaper while sitting on the bed and placing a pillow on the lap.
-16.mp4,11,Night,Full Shirt & Jeans,Reading a newspaper, throwing the newspaper, and sleeping.
-17.mp4,11,Night,Full Shirt & Jeans,Standing up from bed; walking; and checking the dress on the hanger.
-18.mp4,11,Night,Full Shirt & Jeans,Walking; opening the window; and looking outside.
-19.mp4,11,Night,Full Shirt & Jeans,Sitting on the ground and writing in a notebook.
-20.mp4,11,Night,Full Shirt & Jeans,Standing up; picking up a water bottle; and drinking water while sitting on the ground.
-21.mp4,10,Night,Full Shirt & Jeans,Picking up a pen from the ground and walking.
-22.mp4,12,Night,Full Shirt & Jeans,Exercising (Push-up) and sitting.
-23.mp4,07,Night,Full Shirt & Jeans,Eating biscuits while sitting on the bed with legs folded.
+File Name,Length (seconds),Time of Recording,Attire,Description, Classes
+01.mp4,11,Day,Full Shirt & Pant,Talking on the mobile phone while sitting on the bed and walking, Sitting [0 to 7]; Standing [7.3 to 8.1]; Walking[8.1 to 11]
+02.mp4,11,Day,Full Shirt & Pant,Picking up a water bottle from the ground and drinking while sitting on the bed, Drinking[10.5 to 11]; Sitting [0 to 11];
+03.mp4,11,Day,Full Shirt & Pant,Walking; removing dust from the bed using a pillow; and sleeping on the bed, Sitting[5.6 to 7.4]; Sleeping[8 to 11]; Walking[0 to 4.6]
+04.mp4,70,Day,Full Shirt & Pant,Yoga: Standing forward bend (Uttanasana), Exercising[0 to 7]; Standing[0 to 7]
+05.mp4,10,Day,Full Shirt & Pant,Throwing a book on the bed; standing up from the ground; walking; and opening the curtain, Sitting[0 to 2.8]; Standing[3.1 to 4.1]; Walking[4.1 to 10]
+06.mp4,10,Day,Full Shirt & Pant,Picking up the mobile phone from the ground; placing it on the bed; and sitting on the bed, Sitting[9.7 to 3]; Standing[0 to 0.5; 4.2 to 6.5]; Walking[0.5 to 1.8; 6 to 8.7]
+07.mp4,13,Day,Full Shirt & Pant,Exercising (Moving both hands up and down), Exercising[0 to 13]; Standing[0 to 13]
+08.mp4,13,Day,Full Shirt & Pant,Exercising (Stretching thigh and trying to touch the ground:Pyramid Pose), Exercising[0 to 13]; Standing[4.5 to 6.2; 10 to 13]
+09.mp4,10,Day,Full Shirt & Paint,Standing up from a sitting position on the bed and then sitting on the ground, Sitting[0 to 0.5; 3.7 to 10]; Standing[0.5 to 1.3]; Walking[0.5 to 3.1]
+10.mp4,07,Day,Full Shirt & Paint,Standing up from the ground and closing the curtain, Standing[0.1 to 2.1]; Walking[2.1 to 5]
+11.mp4,10,Day,Full Shirt; T-shirt & Pant,Removing the shirt and hanging it on the hanger, Standing[0 to 4.7]; Walking[5 to 6.5; 8 to 10]
+12.mp4,07,Day,T-shirt and Pant,Going to bed and sleeping (belly facing downwards), Sleeping[3 to 7]; Standing[0 to 0.1]
+13.mp4,04,Day,T-shirt and Pant,Sitting on the ground and reading a book, Reading[1 to 4]; Sitting[1 to 4]; Standing[0 to 0.5]
+14.mp4,11,Night,Full Shirt & Jeans,Walking and reading something while sitting on the bed, Reading[8.6 to 11]; Sitting[4.6 to 11]; Walking[0 to 3.6]
+15.mp4,11,Night,Full Shirt & Jeans,Reading a newspaper while sitting on the bed and placing a pillow on the lap, Reading[6.5 to 11]; Sitting[0 to 11]
+16.mp4,11,Night,Full Shirt & Jeans,Reading a newspaper; throwing the newspaper; and sleeping, Reading[0 to 5.8]; Sleeping[9 to 11]
+17.mp4,11,Night,Full Shirt & Jeans,Standing up from bed; walking; and checking the dress on the hanger, Standing[3.5 to 4; 6.8 to 10]; Walking[4.1 to 6.8]
+18.mp4,11,Night,Full Shirt & Jeans,Walking; opening the window; and looking outside, Standing[2 to 11]; Walking[0 to 2]
+19.mp4,11,Night,Full Shirt & Jeans,Sitting on the ground and writing in a notebook,Sitting[1 to 11]; Walking[0 to 0.6]; Writing[5 to 11]
+20.mp4,11,Night,Full Shirt & Jeans,Standing up; picking up a water bottle; and drinking water while sitting on the ground, Drinking[7.4 to 9.4]; Sitting[3.7 to 11]; Standing[0 to 3.2]
+21.mp4,10,Night,Full Shirt & Jeans,Picking up a pen from the ground and walking, Standing[0 to 6.6]; Walking[6.6 to 10]
+22.mp4,12,Night,Full Shirt & Jeans,Exercising (Push-up) and sitting, Exercising[1.9 to 8.3]; Sitting[9.5 to 10.5]
+23.mp4,07,Night,Full Shirt & Jeans,Eating biscuits while sitting on the bed with legs folded, Eating[4.2 to 5.2]; Sitting[0 to 7]

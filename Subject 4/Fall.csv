@@ -1,18 +1,18 @@
-File Name,Length (seconds),Time of Recording,Attire,Description
-01.mp4,04,Day (Lights On),Full Shirt & Pant,Standing on the bed to falling (LS) on the bed.
-02.mp4,02,Day (Lights On),Full Shirt & Pant,Falling (LS) from the bed to the floor.
-03.mp4,06,Day (Lights Off),Full Shirt & Pant,Walking then falling (forward) view 1.
-04.mp4,04,Day (Lights Off),Full Shirt & Pant,Walking then falling (forward) view 2.
-05.mp4,07,Day (Lights Off),Full Shirt & Pant,Falling (RS) on the bed from sitting on the bed.
-06.mp4,06,Day (Lights Off),Full Shirt & Pant,Falling (LS) on the bed from sitting on the bed then falling (RS) to the floor.
-07.mp4,06,Day (Lights Off),Full Shirt & Pant,Walking then falling (LS) on the floor.
-08.mp4,06,Day (Lights Off),Full Shirt & Pant,Falling backward on the bed from sitting on the bed.
-09.mp4,06,Day (Lights On),Full Shirt & Pant,Falling backward on the bed from sitting on the bed.
-10.mp4,05,Day (Lights On),Full Shirt & Pant,Reading a book while sitting on the chair then falling (FW) on the ground.
-11.mp4,04,Day (Lights On),Full Shirt & Pant,Walking then falling (FW: only waist to toe is visible after falling).
-12.mp4,04,Day (Lights On),T-Shirt & Pant,Falling (FW)to the floor from sitting on the bed.
-13.mp4,05,Day (Lights On),T-Shirt & Pant,Falling (sideways) on the bed from sitting on the bed.
-14.mp4,05,Day (Lights On),T-Shirt & Pant,Falling (RS) on the bed from sitting on the bed then falling (LS) to the floor. 
-15.mp4,04,Day (Lights On),T-Shirt & Pant,Falling (FW) on the floor from sitting on the bed.
-16.mp4,07,Day (Lights On),T-Shirt & Pant,Walking then falling (FW) on the floor.
-17.mp4,06,Day (Lights On),T-Shirt & Pant,Falling (LS) on the bed from sitting on the bed.
+File Name,Length (seconds),Time of Recording,Attire,Description, Classes
+01.mp4,04,Day (Lights On),Full Shirt & Pant,Standing on the bed to falling (LS) on the bed, Falling (SW)[1.8 to 4]; Standing[0 to 1.5]
+02.mp4,02,Day (Lights On),Full Shirt & Pant,Falling (LS) from the bed to the floor, Falling (SW)[1.5 to 2]; Sleeping[0 to 1.4]
+03.mp4,06,Day (Lights Off),Full Shirt & Pant,Walking then falling (forward) view 1, Falling (FW)[1.7 to 6]; Walking[0 to 1.7]
+04.mp4,04,Day (Lights Off),Full Shirt & Pant,Walking then falling (forward) view 2, Falling (FW)[1.2 to 4]
+05.mp4,07,Day (Lights Off),Full Shirt & Pant,Falling (RS) on the bed from sitting on the bed, Falling (SW)[2.7 to 7]; Sitting[0 to 2.4]
+06.mp4,06,Day (Lights Off),Full Shirt & Pant,Falling (LS) on the bed from sitting on the bed then falling (RS) to the floor, Falling (SW)[1.1 to 6]; Sitting[0 to 1]
+07.mp4,06,Day (Lights Off),Full Shirt & Pant,Walking then falling (LS) on the floor, Falling (SW)[2.4 to 6]; Walking[0 to 1.6]
+08.mp4,06,Day (Lights Off),Full Shirt & Pant,Falling backward on the bed from sitting on the bed, Falling (BW)[2.3 to 6]; Sitting[0 to 2.2]
+09.mp4,06,Day (Lights On),Full Shirt & Pant,Falling backward on the bed from sitting on the bed, Falling (BW)[2.3 6]; Sitting[0 to 2]
+10.mp4,05,Day (Lights On),Full Shirt & Pant,Reading a book while sitting on the chair then falling (FW) on the ground, Falling (FW)[2.2 to 5]; Reading[0 to 2.1]; Sitting[0 to 2.1]
+11.mp4,04,Day (Lights On),Full Shirt & Pant,Walking then falling (FW: only waist to toe is visible after falling), Falling (FW)[1.2 to 4]; Walking[0 to 1]
+12.mp4,04,Day (Lights On),T-Shirt & Pant,Falling (FW)to the floor from sitting on the bed, Falling (FW)[1.5 to 4]; Sitting[0 to 1.3]
+13.mp4,05,Day (Lights On),T-Shirt & Pant,Falling (sideways) on the bed from sitting on the bed, Falling (SW)[0.3 to 5]
+14.mp4,05,Day (Lights On),T-Shirt & Pant,Falling (RS) on the bed from sitting on the bed then falling (LS) to the floor, Falling (SW)[0.8 to 5]; Sitting[0 to 0.8]
+15.mp4,04,Day (Lights On),T-Shirt & Pant,Falling (FW) on the floor from sitting on the bed, Falling (FW); Sitting[0 to 1.7]
+16.mp4,07,Day (Lights On),T-Shirt & Pant,Walking then falling (FW) on the floor, Falling (FW)[3.2 to 7]; Walking[0 to 2.9]
+17.mp4,06,Day (Lights On),T-Shirt & Pant,Falling (LS) on the bed from sitting on the bed, Falling (SW)[2.8 to 6]; Sitting[0 to 2.6]

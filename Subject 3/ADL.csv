@@ -1,23 +1,23 @@
-File Name,Length (seconds),Time of Recording,Attire,Description
-01.mp4,8,Day,Full T-shirt & Trouser,Writing something in the notebook while sitting on the bed.
-02.mp4,9,Day,Full T-shirt & Trouser,Exercise (Hand up & down).
-03.mp4,9,Day,Full T-shirt & Trouser,Getting up from the sleeping position from the bed; Putting a mask on the face; walking.
-04.mp4,10,Day,Full T-shirt & Trouser,Picking a book from the floor and putting it on the bed; sitting on the bed.
-05.mp4,5,Day,Full T-shirt & Trouser,Exercising (hand down & up with body bending).
-06.mp4,8,Day,Full T-shirt & Trouser,Exercising then sitting down on the floor.
-07.mp4,3,Day,Full T-shirt & Trouser,Exercising (sitting and standing).
-08.mp4,4,Day,Full T-shirt & Trouser,Sitting to sleeping on the floor.
-09.mp4,7,Day,Full T-shirt & Trouser,Sleeping on the floor to sitting and then standing.
-10.mp4,12,Day,Full shirt & Trouser,Opening the window curtain and the window.
-11.mp4,12,Day,Full shirt & Trouser,Closing the window curtain and the window.
-12.mp4,10,Night,Full T-shirt 2 & Trouser,Changing pages of a book while sitting on the bed; standing.
-13.mp4,8,Night,Full T-shirt (different) & Trouser,Sitting on the floor.
-14.mp4,8,Night,Full T-shirt (different) & Trouser,Sitting on the floor & drinking water from the water bottle.
-15.mp4,7,Night,Full T-shirt (different) & Trouser,Reading newspaper while sitting on the floor.
-16.mp4,10,Day,Kurta & Trouser,Eating while sitting on the ground.
-17.mp4,12,Night,Full T-shirt (different) & Trouser,Drinking water from a water bottle while sitting on the bed Putting the water bottle on the bed.
-18.mp4,11,Night,Full T-shirt (different) & Trouser,Walking; sitting on the bed and eating biscuits.
-19.mp4,6,Night,Full T-shirt (different) & Trouser,Picking the pen from the floor and putting it on the bed.
-20.mp4,9,Night,Full T-shirt (different) & Trouser,Talking on the phone while sitting on the bed.
-21.mp4,10,Day,Kurta & Trouser,Drinking while sitting on the bed.
-22.mp4,09,Day,Kurta & Trouser,Writing while sitting on the bed.
+File Name,Length (seconds),Time of Recording,Attire,Description, Classes
+01.mp4,08,Day,Full T-shirt & Trousers,Writing something in the notebook while sitting on the bed,Sitting[0 to 8]; Writing[0 to 8]
+02.mp4,09,Day,Full T-shirt & Trousers,Exercise (Hand up & down), Exercising[0 to 9]; Standing[0 to 9]
+03.mp4,09,Day,Full T-shirt & Trousers,Getting up from the sleeping position from the bed; Putting a mask on the face; then walking, Sitting[3 to 7.4]; Sleeping[0 to 1]; Standing[7.6 to 8.4]; Walking[8.5 to 9]
+04.mp4,10,Day,Full T-shirt & Trousers,Picking a book from the floor and putting it on the bed; sitting on the bed, Sitting[9.2 to 10]; Standing[2.4 to 3.6; 6.6 to 7.9; Walking[3.6 to 5.2; 7.9 to 9.2] 
+05.mp4,05,Day,Full T-shirt & Trousers,Exercising (hand down & up with body bending), Exercising[0 to 5]; Standing[0 to 5]
+06.mp4,08,Day,Full T-shirt & Trousers,Exercising then sitting down on the floor, Exercising[0 to 5.1]; Sitting[5.1 to 8]
+07.mp4,03,Day,Full T-shirt & Trousers,Exercising (sitting and standing), Exercising[0 to 3]; Standing[0 to 0.3; 1.5 to 2.2]
+08.mp4,04,Day,Full T-shirt & Trousers,Sitting to sleeping on the floor, Sitting[0 to 0.8]; Sleeping[0.8 to 4]
+09.mp4,07,Day,Full T-shirt & Trousers,Sleeping on the floor to sitting and then standing, Sitting[2.5 to 6]; Sleeping[0 to 2.2]; Standing[6.2 to 7]
+10.mp4,12,Day,Full shirt & Trousers,Opening the window curtain and the window, Standing[0 to 12]
+11.mp4,12,Day,Full shirt & Trousers,Closing the window curtain and the window, Standing[2.7 to 12]; Walking[0 to 2.7]
+12.mp4,10,Night,Full T-shirt 2 & Trousers,Changing pages of a book while sitting on the bed; standing, Reading; Sitting[0.8 to 8.1]; Standing[8.1 to 9.2]; Walking[9.2 to 10]
+13.mp4,08,Night,Full T-shirt (different) & Trousers,Sitting on the floor, Sitting[0 to 8]
+14.mp4,08,Night,Full T-shirt (different) & Trousers,Sitting on the floor & drinking water from the water bottle, Drinking[3.5 to 6]; Sitting[0 to 8]
+15.mp4,07,Night,Full T-shirt (different) & Trousers,Reading newspaper while sitting on the floor, Reading[0 to 7]; Sitting[0 to 7]
+16.mp4,10,Day,Kurta & Trousers,Eating while sitting on the ground, Eating[0 to 10]; Sitting[0 to 10]
+17.mp4,12,Night,Full T-shirt (different) & Trousers,Drinking water from a water bottle while sitting on the bed Putting the water bottle on the bed, Drinking[1.8 to 4.1]; Sitting[0 to 12]
+18.mp4,11,Night,Full T-shirt (different) & Trousers,Walking; sitting on the bed and eating biscuits, Eating[5.1 to 5.8]; Sitting[0.6 to 11]; Walking[0 to 0.5]
+19.mp4,06,Night,Full T-shirt (different) & Trousers,Picking the pen from the floor and putting it on the bed, Walking[1.8 to 5]
+20.mp4,09,Night,Full T-shirt (different) & Trousers,Talking on the phone while sitting on the bed, Sitting[0 to 9]
+21.mp4,10,Day,Kurta & Trousers,Drinking while sitting on the bed, Drinking[0 to 5.1]; Sitting[ 0 to 10]
+22.mp4,09,Day,Kurta & Trousers,Writing while sitting on the bed, Sitting[0 to 9]; Writing[0 to 9]
